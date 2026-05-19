@@ -1,0 +1,8 @@
+data/
+outputs/
+utils/__pycache__/
+models/__pycache__/
+__pycache__/
+*.pyc
+*.pth
+*.tar.gz
